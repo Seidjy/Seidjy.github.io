@@ -1,5 +1,5 @@
 <?php
-	include"index.html";
+	include"Seidjy.github.io/index.html";
 ?>
 	<div class="container" >
 		<section class="tabelaRestricao">
